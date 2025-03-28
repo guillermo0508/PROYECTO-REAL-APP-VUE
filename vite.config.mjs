@@ -12,7 +12,8 @@ export default defineConfig({
     host: true,
     port: 3000,
     allowedHosts: [
-      'proyecto-real-apis-1.onrender.com'
+      'proyecto-real-apis-1.onrender.com',
+      'proyecto-real-app-vue.onrender.com' // Agregado aquí
     ]
   },
   plugins: [
